@@ -1,0 +1,109 @@
+{
+  "name": "Healing Wave Hospital",
+  "departments": [
+    "Emergency",
+    "Cardiology", 
+    "Neurology",
+    "Orthopedics",
+    "Pediatrics",
+    "Maternity",
+    "General Medicine",
+    "Surgery",
+    "Pharmacy",
+    "Radiology"
+  ],
+  "rules": [
+    {
+      "keywords": ["hello", "hi", "greetings", "good morning", "good evening"],
+      "response": "Hello! Welcome to Healing Wave Hospital. How can I assist you today?"
+    },
+    {
+      "keywords": ["how many", "total", "hospitals"],
+      "response": "There are currently 156 hospitals in our network."
+    },
+    {
+      "keywords": ["apollo", "rating", "rate"],
+      "response": "Apollo Hospitals has a rating of 4.8 out of 5.0. It's one of our top-rated facilities!"
+    },
+    {
+      "keywords": ["chennai", "hospital", "location"],
+      "response": "Apollo Hospitals is located in Chennai, Tamil Nadu."
+    },
+    {
+      "keywords": ["aiims", "bed", "capacity"],
+      "response": "AIIMS Delhi has a bed capacity of 2,478 beds, making it one of the largest medical facilities in our network."
+    },
+    {
+      "keywords": ["high priority", "alert", "emergency"],
+      "response": "Yes, there are currently 2 high priority alerts: Capacity Alert and Equipment Maintenance."
+    },
+    {
+      "keywords": ["patient satisfaction", "satisfaction score"],
+      "response": "The current patient satisfaction score is 4.6 out of 5.0. We're continuously working to improve patient experience."
+    },
+    {
+      "keywords": ["fortis", "beds"],
+      "response": "Fortis Healthcare has 425 beds with an occupancy rate of 91.2%."
+    },
+    {
+      "keywords": ["today", "current", "occupancy"],
+      "response": "Today's average occupancy rate across all hospitals is 82.5%."
+    },
+    {
+      "keywords": ["jci", "accreditation"],
+      "response": "Apollo Hospitals and Max Healthcare have JCI accreditation."
+    },
+    {
+      "keywords": ["manipal", "specialties"],
+      "response": "Manipal Hospitals offers the following specialties: Orthopedics, Gastroenterology, Urology."
+    },
+    {
+      "keywords": ["revenue per bed", "apollo"],
+      "response": "Apollo Hospitals generates ₹284,615 per bed, which is 156.2% of the industry average (₹182,312 per bed)."
+    },
+    {
+      "keywords": ["regional", "occupancy"],
+      "response": "Regional Occupancy Analysis:\nTamil Nadu: 88.5% average occupancy\nHaryana: 91.2% average occupancy\nDelhi: 90.1% average occupancy\nKarnataka: 79.6% average occupancy"
+    },
+    {
+      "keywords": ["top 3", "department", "revenue"],
+      "response": "The top 3 revenue-generating departments (Cardiology: 30.1%, Orthopedics: 23.1%, Neurology: 17.9%) contribute 71.1% of total monthly revenue."
+    },
+    {
+      "keywords": ["hours", "time", "open", "timing"],
+      "response": "Our hospital is open 24/7 for emergency services. Regular departments operate from 8 AM to 8 PM Monday through Saturday, and 8 AM to 2 PM on Sundays."
+    },
+    {
+      "keywords": ["appointment", "booking", "schedule"],
+      "response": "To book an appointment, please call our helpline at +91-XXX-XXX-XXXX or visit our website. You can also visit the reception desk during business hours."
+    },
+    {
+      "keywords": ["doctor", "specialist", "physician"],
+      "response": "We have over 145 experienced doctors across various specialties. You can find specialists in Cardiology, Neurology, Orthopedics, Pediatrics, and many other departments."
+    },
+    {
+      "keywords": ["contact", "phone", "address", "location"],
+      "response": "Contact Information:\nPhone: +91-XXX-XXX-XXXX\nEmergency: 108\nAddress: Healing Wave Hospital, Medical District, City\nEmail: info@healingwave.com"
+    },
+    {
+      "keywords": ["billing", "insurance", "payment"],
+      "response": "We accept most major insurance plans and offer flexible payment options. For billing inquiries, please contact our billing department at extension 2345 or visit the billing counter."
+    },
+    {
+      "keywords": ["pharmacy", "medicine", "drugs"],
+      "response": "Our 24/7 pharmacy is located on the ground floor. We maintain a comprehensive stock of medicines and can fulfill most prescriptions immediately."
+    },
+    {
+      "keywords": ["visitor", "visiting", "hours", "family"],
+      "response": "Visitor hours are 10 AM to 8 PM daily. Please check with the nurse station for any specific restrictions. Maximum 2 visitors per patient at a time."
+    },
+    {
+      "keywords": ["thank", "thanks"],
+      "response": "You're welcome! Is there anything else I can help you with regarding our hospital services?"
+    },
+    {
+      "keywords": ["bye", "goodbye", "exit"],
+      "response": "Thank you for choosing Healing Wave Hospital. Take care and have a great day!"
+    }
+  ]
+}
