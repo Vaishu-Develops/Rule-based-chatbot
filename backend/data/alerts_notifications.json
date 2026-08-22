@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "success",
+    "title": "High Performance Alert",
+    "message": "Apollo Hospitals Chennai exceeded 90% occupancy rate",
+    "timestamp": "2024-07-02T10:30:00Z",
+    "priority": "medium"
+  },
+  {
+    "id": 2,
+    "type": "warning",
+    "title": "Capacity Alert",
+    "message": "Max Healthcare approaching full capacity (95% occupied)",
+    "timestamp": "2024-07-02T09:15:00Z",
+    "priority": "high"
+  },
+  {
+    "id": 3,
+    "type": "info",
+    "title": "New Registration",
+    "message": "Narayana Health registered successfully",
+    "timestamp": "2024-07-01T16:45:00Z",
+    "priority": "low"
+  }
+]
