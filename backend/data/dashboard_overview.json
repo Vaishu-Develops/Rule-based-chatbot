@@ -1,0 +1,11 @@
+{
+  "total_hospitals": 156,
+  "total_beds": 78420,
+  "total_doctors": 11680,
+  "total_specialties": 285,
+  "active_patients": 58234,
+  "avg_occupancy_rate": 82.5,
+  "monthly_revenue": 4250000000,
+  "patient_satisfaction": 4.6,
+  "last_updated": "2024-07-02T14:30:00Z"
+}
