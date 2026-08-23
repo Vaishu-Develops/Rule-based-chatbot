@@ -1,0 +1,73 @@
+{
+  "name": "Healing Wave Hospital",
+  "departments": [
+    "Emergency",
+    "Cardiology",
+    "Pediatrics",
+    "Appointments",
+    "General Information",
+    "Billing & Insurance",
+    "Pharmacy",
+    "Visitor Services",
+    "Maternity",
+    "Orthopedics"
+  ],
+  "rules": [
+    {
+      "keywords": ["hello", "hi", "greetings", "welcome", "hey"],
+      "response": "Welcome to Healing Wave Hospital. How can I assist you today?"
+    },
+    {
+      "keywords": ["hours", "time", "open", "opening hours", "close", "closing time"],
+      "response": "Our hospital is open 24/7 for emergencies. General outpatient and administrative hours are 8 AM to 8 PM, Monday to Saturday."
+    },
+    {
+      "keywords": ["doctor", "physician", "dr", "find a doctor", "specialist", "consultant"],
+      "response": "To find a doctor, please specify the department or the doctor's name. We have specialists in Cardiology, Pediatrics, Emergency Medicine, Orthopedics, and many more. You can also use our 'Find a Doctor' tool on our website."
+    },
+    {
+      "keywords": ["appointment", "book appointment", "schedule", "visit", "make an appointment"],
+      "response": "To book an appointment, please specify the department or type of specialist you need, and your preferred date/time. You can also schedule online via our patient portal or call our appointments desk at [Hospital Appointments Phone Number, e.g., +91-422-XXXX-XXXX]."
+    },
+    {
+      "keywords": ["contact", "call", "phone", "reach us", "contact us", "helpline"],
+      "response": "You can contact our main reception at [Hospital Main Phone Number, e.g., +91-422-XXXX-XXXX] or visit our official website for department-specific contact details."
+    },
+    {
+      "keywords": ["emergency", "urgent care", "accident", "ER", "critical"],
+      "response": "For medical emergencies, please come directly to our Emergency Department, which is open 24/7. If you are experiencing a life-threatening emergency, please call 108 immediately."
+    },
+    {
+      "keywords": ["location", "address", "directions", "how to get there", "where are you"],
+      "response": "Healing Wave Hospital is located at [Hospital Address, e.g., 123 Health Ave, Gandhipuram, Coimbatore, Tamil Nadu, 641012]. Detailed directions and a map are available on our website."
+    },
+    {
+      "keywords": ["billing", "invoice", "payment", "insurance", "cost", "charges"],
+      "response": "For billing or insurance inquiries, please contact our billing department at [Billing Department Phone Number] during business hours, or log into our patient portal to view your statements."
+    },
+    {
+      "keywords": ["pharmacy", "medicine", "prescription", "drugs"],
+      "response": "Our in-house pharmacy is located on the ground floor and is open from 8 AM to 9 PM daily. You can collect your prescriptions here."
+    },
+    {
+      "keywords": ["visitor", "visiting hours", "patient visits", "family"],
+      "response": "Visitor hours vary by department. Generally, visitor hours are from 10 AM to 12 PM and 5 PM to 7 PM. Please check with the specific ward for details."
+    },
+    {
+      "keywords": ["test results", "reports", "lab results", "scans"],
+      "response": "To inquire about test results, please contact your referring doctor's office directly, or you may be able to access them through our secure patient portal."
+    },
+    {
+      "keywords": ["feedback", "complaint", "suggestion", "praise"],
+      "response": "We value your feedback. Please visit the 'Contact Us' section on our website for our feedback form, or ask to speak with a patient relations representative."
+    },
+    {
+      "keywords": ["admission", "admit", "check in", "discharge"],
+      "response": "For admission inquiries, please proceed to the patient registration desk. For discharge information, your care team will provide you with all necessary details."
+    },
+    {
+      "keywords": ["career", "job", "vacancy", "employment"],
+      "response": "Interested in joining our team? Please visit the 'Careers' section on the Healing Wave Hospital website to view current job openings and apply."
+    }
+  ]
+}
