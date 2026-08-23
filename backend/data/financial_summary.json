@@ -1,0 +1,19 @@
+{
+  "current_month": {
+    "revenue": 4250000000,
+    "expenses": 3400000000,
+    "profit": 850000000,
+    "profit_margin": 20.0
+  },
+  "previous_month": {
+    "revenue": 4100000000,
+    "expenses": 3350000000,
+    "profit": 750000000,
+    "profit_margin": 18.3
+  },
+  "growth": {
+    "revenue_growth": 3.7,
+    "profit_growth": 13.3,
+    "margin_improvement": 1.7
+  }
+}
