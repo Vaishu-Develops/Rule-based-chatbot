@@ -1,0 +1,42 @@
+[
+  {
+    "department": "Cardiology",
+    "revenue": 1280000000,
+    "percentage": 30.1,
+    "patients": 15600,
+    "avg_bill": 82051,
+    "growth": 15.2
+  },
+  {
+    "department": "Orthopedics",
+    "revenue": 980000000,
+    "percentage": 23.1,
+    "patients": 12800,
+    "avg_bill": 76562,
+    "growth": 12.8
+  },
+  {
+    "department": "Neurology",
+    "revenue": 760000000,
+    "percentage": 17.9,
+    "patients": 8900,
+    "avg_bill": 85393,
+    "growth": 18.5
+  },
+  {
+    "department": "Emergency",
+    "revenue": 620000000,
+    "percentage": 14.6,
+    "patients": 18200,
+    "avg_bill": 34066,
+    "growth": 8.9
+  },
+  {
+    "department": "Others",
+    "revenue": 610000000,
+    "percentage": 14.3,
+    "patients": 12300,
+    "avg_bill": 49593,
+    "growth": 10.4
+  }
+]
