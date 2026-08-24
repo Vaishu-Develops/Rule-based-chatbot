@@ -1,0 +1,42 @@
+[
+  {
+    "metric": "Average Length of Stay",
+    "value": 4.2,
+    "unit": "days",
+    "trend": "stable",
+    "benchmark": 4.5,
+    "icon": "\ud83d\udcca"
+  },
+  {
+    "metric": "Patient Satisfaction Score",
+    "value": 4.6,
+    "unit": "/5",
+    "trend": "improving",
+    "benchmark": 4.3,
+    "icon": "\ud83d\ude0a"
+  },
+  {
+    "metric": "Staff to Patient Ratio",
+    "value": 1.2,
+    "unit": ":1",
+    "trend": "stable",
+    "benchmark": 1.0,
+    "icon": "\ud83d\udc69\u200d\u2695\ufe0f"
+  },
+  {
+    "metric": "Revenue per Bed",
+    "value": 54200,
+    "unit": "INR/month",
+    "trend": "improving",
+    "benchmark": 48000,
+    "icon": "\ud83d\udcb0"
+  },
+  {
+    "metric": "Bed Turnover Rate",
+    "value": 2.8,
+    "unit": "patients/bed/month",
+    "trend": "improving",
+    "benchmark": 2.5,
+    "icon": "\ud83d\udd04"
+  }
+]
