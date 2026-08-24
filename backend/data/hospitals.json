@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Apollo Hospitals",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Multi-Specialty",
+    "beds": 650,
+    "occupancy_rate": 88.5,
+    "rating": 4.8,
+    "established": 1983,
+    "doctors": 145,
+    "monthly_patients": 12500,
+    "revenue": 185000000,
+    "specialties": [
+      "Cardiology",
+      "Neurology",
+      "Oncology",
+      "Orthopedics"
+    ],
+    "status": "Active",
+    "accreditation": "JCI",
+    "image": "\ud83c\udfe5"
+  },
+  {
+    "id": 2,
+    "name": "Fortis Healthcare",
+    "location": "Gurgaon, Haryana",
+    "type": "Super-Specialty",
+    "beds": 425,
+    "occupancy_rate": 91.2,
+    "rating": 4.7,
+    "established": 1996,
+    "doctors": 98,
+    "monthly_patients": 8900,
+    "revenue": 142000000,
+    "specialties": [
+      "Cardiac Surgery",
+      "Neurosurgery",
+      "Transplant"
+    ],
+    "status": "Active",
+    "accreditation": "NABH",
+    "image": "\ud83c\udfe5"
+  },
+  {
+    "id": 3,
+    "name": "AIIMS Delhi",
+    "location": "New Delhi, Delhi",
+    "type": "Government Medical College",
+    "beds": 2478,
+    "occupancy_rate": 95.8,
+    "rating": 4.9,
+    "established": 1956,
+    "doctors": 758,
+    "monthly_patients": 45000,
+    "revenue": 89000000,
+    "specialties": [
+      "All Specialties",
+      "Research",
+      "Emergency"
+    ],
+    "status": "Active",
+    "accreditation": "NABH",
+    "image": "\ud83c\udfe5"
+  },
+  {
+    "id": 4,
+    "name": "Max Healthcare",
+    "location": "Delhi NCR",
+    "type": "Multi-Specialty",
+    "beds": 380,
+    "occupancy_rate": 84.3,
+    "rating": 4.5,
+    "established": 2001,
+    "doctors": 89,
+    "monthly_patients": 7800,
+    "revenue": 128000000,
+    "specialties": [
+      "Oncology",
+      "Cardiac Sciences",
+      "Neurosciences"
+    ],
+    "status": "Active",
+    "accreditation": "JCI",
+    "image": "\ud83c\udfe5"
+  },
+  {
+    "id": 5,
+    "name": "Manipal Hospitals",
+    "location": "Bangalore, Karnataka",
+    "type": "Multi-Specialty",
+    "beds": 550,
+    "occupancy_rate": 79.6,
+    "rating": 4.6,
+    "established": 1991,
+    "doctors": 125,
+    "monthly_patients": 11200,
+    "revenue": 167000000,
+    "specialties": [
+      "Orthopedics",
+      "Gastroenterology",
+      "Urology"
+    ],
+    "status": "Active",
+    "accreditation": "NABH",
+    "image": "\ud83c\udfe5"
+  }
+]
