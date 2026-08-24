@@ -1,0 +1,50 @@
+[
+  {
+    "month": "January",
+    "patients": 42500,
+    "revenue": 3800000000,
+    "occupancy": 78.2,
+    "satisfaction": 4.4,
+    "staff_count": 11200
+  },
+  {
+    "month": "February",
+    "patients": 45200,
+    "revenue": 4100000000,
+    "occupancy": 81.5,
+    "satisfaction": 4.5,
+    "staff_count": 11350
+  },
+  {
+    "month": "March",
+    "patients": 48900,
+    "revenue": 4350000000,
+    "occupancy": 84.8,
+    "satisfaction": 4.6,
+    "staff_count": 11480
+  },
+  {
+    "month": "April",
+    "patients": 46800,
+    "revenue": 4200000000,
+    "occupancy": 82.1,
+    "satisfaction": 4.5,
+    "staff_count": 11520
+  },
+  {
+    "month": "May",
+    "patients": 52100,
+    "revenue": 4600000000,
+    "occupancy": 86.3,
+    "satisfaction": 4.7,
+    "staff_count": 11680
+  },
+  {
+    "month": "June",
+    "patients": 49600,
+    "revenue": 4250000000,
+    "occupancy": 82.5,
+    "satisfaction": 4.6,
+    "staff_count": 11680
+  }
+]
