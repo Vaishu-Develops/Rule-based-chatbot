@@ -1,0 +1,43 @@
+{
+  "hospital_types": [
+    "Multi-Specialty",
+    "Super-Specialty",
+    "Government",
+    "Private"
+  ],
+  "locations": [
+    "Chennai",
+    "Delhi",
+    "Mumbai",
+    "Bangalore",
+    "Hyderabad",
+    "Pune",
+    "Kolkata"
+  ],
+  "specialties": [
+    "Cardiology",
+    "Orthopedics",
+    "Neurology",
+    "Oncology",
+    "Emergency",
+    "Pediatrics"
+  ],
+  "bed_ranges": [
+    "0-100",
+    "101-300",
+    "301-500",
+    "501-1000",
+    "1000+"
+  ],
+  "rating_ranges": [
+    "4.0+",
+    "4.5+",
+    "4.8+"
+  ],
+  "accreditations": [
+    "JCI",
+    "NABH",
+    "ISO",
+    "None"
+  ]
+}
