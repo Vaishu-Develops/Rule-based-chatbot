@@ -1,0 +1,38 @@
+[
+  {
+    "region": "North India",
+    "hospitals": 58,
+    "beds": 28450,
+    "avg_occupancy": 84.2,
+    "revenue_share": 35.8,
+    "top_city": "Delhi",
+    "growth_rate": 12.5
+  },
+  {
+    "region": "South India",
+    "hospitals": 42,
+    "beds": 22100,
+    "avg_occupancy": 87.9,
+    "revenue_share": 28.4,
+    "top_city": "Chennai",
+    "growth_rate": 15.2
+  },
+  {
+    "region": "West India",
+    "hospitals": 34,
+    "beds": 17890,
+    "avg_occupancy": 79.1,
+    "revenue_share": 22.1,
+    "top_city": "Mumbai",
+    "growth_rate": 8.7
+  },
+  {
+    "region": "East India",
+    "hospitals": 22,
+    "beds": 9980,
+    "avg_occupancy": 76.3,
+    "revenue_share": 13.7,
+    "top_city": "Kolkata",
+    "growth_rate": 6.8
+  }
+]
