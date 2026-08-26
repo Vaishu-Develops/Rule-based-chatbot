@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Cardiology",
+    "hospitals": 142,
+    "percentage": 32.8,
+    "avg_rating": 4.7,
+    "monthly_patients": 15600,
+    "color": "#0d6efd"
+  },
+  {
+    "name": "Orthopedics",
+    "hospitals": 128,
+    "percentage": 29.6,
+    "avg_rating": 4.5,
+    "monthly_patients": 12800,
+    "color": "#198754"
+  },
+  {
+    "name": "Neurology",
+    "hospitals": 89,
+    "percentage": 20.6,
+    "avg_rating": 4.8,
+    "monthly_patients": 8900,
+    "color": "#ffc107"
+  },
+  {
+    "name": "Oncology",
+    "hospitals": 67,
+    "percentage": 15.5,
+    "avg_rating": 4.9,
+    "monthly_patients": 6700,
+    "color": "#dc3545"
+  },
+  {
+    "name": "Emergency Medicine",
+    "hospitals": 156,
+    "percentage": 36.1,
+    "avg_rating": 4.4,
+    "monthly_patients": 18200,
+    "color": "#fd7e14"
+  }
+]
