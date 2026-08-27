@@ -1,0 +1,30 @@
+[
+  {
+    "hospital_name": "AIIMS Delhi",
+    "metric": "Patient Volume",
+    "value": 45000,
+    "rank": 1,
+    "badge": "\ud83e\udd47"
+  },
+  {
+    "hospital_name": "Apollo Hospitals",
+    "metric": "Revenue",
+    "value": 185000000,
+    "rank": 1,
+    "badge": "\ud83e\udd47"
+  },
+  {
+    "hospital_name": "Fortis Healthcare",
+    "metric": "Occupancy Rate",
+    "value": 91.2,
+    "rank": 1,
+    "badge": "\ud83e\udd47"
+  },
+  {
+    "hospital_name": "AIIMS Delhi",
+    "metric": "Patient Satisfaction",
+    "value": 4.9,
+    "rank": 1,
+    "badge": "\ud83e\udd47"
+  }
+]
