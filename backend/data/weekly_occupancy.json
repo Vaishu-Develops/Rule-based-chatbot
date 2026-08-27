@@ -1,0 +1,44 @@
+[
+  {
+    "day": "Monday",
+    "occupancy": 89.2,
+    "admissions": 1250,
+    "discharges": 980
+  },
+  {
+    "day": "Tuesday",
+    "occupancy": 91.5,
+    "admissions": 1180,
+    "discharges": 890
+  },
+  {
+    "day": "Wednesday",
+    "occupancy": 88.7,
+    "admissions": 1090,
+    "discharges": 1150
+  },
+  {
+    "day": "Thursday",
+    "occupancy": 85.3,
+    "admissions": 1020,
+    "discharges": 1200
+  },
+  {
+    "day": "Friday",
+    "occupancy": 82.1,
+    "admissions": 950,
+    "discharges": 1080
+  },
+  {
+    "day": "Saturday",
+    "occupancy": 79.8,
+    "admissions": 720,
+    "discharges": 890
+  },
+  {
+    "day": "Sunday",
+    "occupancy": 76.4,
+    "admissions": 680,
+    "discharges": 750
+  }
+]
