@@ -1,0 +1,58 @@
+/* Additional medical-themed animations */
+@keyframes ekg-line {
+  0% { background-position: 0 0; }
+  100% { background-position: 100% 0; }
+}
+
+@keyframes pill-glow {
+  0% { box-shadow: 0 0 0 0 rgba(0, 209, 178, 0.4); }
+  70% { box-shadow: 0 0 0 10px rgba(0, 209, 178, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(0, 209, 178, 0); }
+}
+
+.ekg-pattern {
+  background-image: linear-gradient(
+    90deg,
+    transparent 0%,
+    transparent 50%,
+    rgba(0, 168, 232, 0.2) 50%,
+    rgba(0, 168, 232, 0.2) 100%
+  );
+  background-size: 20px 100%;
+  animation: ekg-line 2s linear infinite;
+}
+
+.pill-glow {
+  animation: pill-glow 1.5s infinite;
+}
+
+
+
+/* Add these to your animations.css */
+.chat-enter {
+  opacity: 0;
+  transform: translateY(10px);
+}
+.chat-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 300ms, transform 300ms;
+}
+.chat-exit {
+  opacity: 1;
+  transform: translateY(0);
+}
+.chat-exit-active {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 300ms, transform 300ms;
+}
+
+/* Reduced motion alternatives */
+@media (prefers-reduced-motion: reduce) {
+  .ekg-pattern,
+  .pill-glow,
+  [class*="animate-"] {
+    animation: none !important;
+  }
+}
