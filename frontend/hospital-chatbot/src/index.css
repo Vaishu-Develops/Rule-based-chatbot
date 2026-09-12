@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom medical theme styles */
+@layer base {
+  body {
+    font-family: 'Open Sans', system-ui, sans-serif;
+    @apply antialiased;
+  }
+}
+
+@layer components {
+  .medical-gradient {
+    @apply bg-gradient-to-r from-medical-primary to-medical-secondary;
+  }
+
+  .medical-card {
+    @apply bg-white/90 backdrop-blur-md rounded-2xl shadow-xl;
+  }
+
+  .medical-button {
+    @apply bg-medical-primary hover:bg-medical-secondary text-white font-medium px-4 py-2 rounded-lg transition-colors;
+  }
+
+  .emergency-button {
+    @apply bg-medical-emergency hover:bg-red-600 text-white font-medium px-4 py-2 rounded-lg transition-colors;
+  }
+}
