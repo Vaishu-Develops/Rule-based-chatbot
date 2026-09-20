@@ -1,1 +1,1 @@
-Rule-based-chatbot
+Rule based chatbot
